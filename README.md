@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is Kasa and I'm a Frotn-end Dev, from Brasil!</h2>
 
 
-<div>
-<img align="right" height="460em" src="https://tenor.googleapis.com/v2/media?id=7651189334378586312&format=optimizedgif&client_key=tenor_web&appversion=browser-r20240102-1&access_token=ya29.a0AfB_byClJ3VJdPeSnuYYqP3Q3v3-iK2eBAnicUxYRJTUij---9jOWRnPXvTNr0E342shAkZU3iBW3-r3fHBR5_mYm_npOpM-zNfCtsiFuWoCWjOYySYptqiEnYS02AWPHVYDigIvP9gw7PLRpQzkG9yLf3AnymvePAaCgYKAUESARISFQHGX2MiDVBuvMm7ZGmtxO1dOcPLnA0169&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
-</div>
-
 <h4>👨‍💻|Actually I'm learning some techs amongst them:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
