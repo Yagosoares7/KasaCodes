@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kasa and I'm a Frotn-end Dev, from Brasil!</h2>
+<h2 align="left">Hi 👋! My name is Kasa and I'm a WEB Dev, from Brasil!</h2>
 
 
 <h4>👨‍💻|Actually I'm learning some techs amongst them:</h4>
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-<h4>📖|Studying every day to become a good front-end professional!</h4>
+<h4>📖|Studying every day to become a professional programmer!</h4>
 
 <div align="left">
   <a href="https://www.instagram.com/_kasa.png/" target="_blank">
